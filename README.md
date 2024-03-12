@@ -1,2 +1,2 @@
-# rough-force
-Drawing force graph in rough style.
+# rough-graph
+Drawing graph in rough style.
